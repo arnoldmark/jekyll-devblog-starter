@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de90a13e-8620-4d7f-98ff-ae63f79b8904/deploy-status)](https://app.netlify.com/sites/kimani-karomo/deploys)
 # Starter Jekyll Devblog
 Starter template for a student devblog based on the starter [Jekyll Minima theme](https://github.com/jekyll/minima).
 
